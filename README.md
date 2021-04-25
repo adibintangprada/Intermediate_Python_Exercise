@@ -1,4 +1,4 @@
-# Intermediate_Python_Exercise
+# Intermediate Python Exercise
 These are intermediate exercise for python practice. You can use these exercise to improve your skills in Python.
 
 ## Overview
